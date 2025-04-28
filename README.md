@@ -1,6 +1,4 @@
-# nerd-scanner
 
-# nerd-scanner
+Watch the trailer: https://youtu.be/ID4Jf0TeMAw
 
-![alt text][image]
-[image]: /Images/cover.png "alt_txt"
+More info here: https://flourek.dev/posts/goofyscanner/
